@@ -1,0 +1,30 @@
+{
+  "name": "scoped-model",
+  "version": "1.0.0",
+  "description": "A minimal state management library for react, inspired by Flutter's scoped model and observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitWolfus/scoped-model.git"
+  },
+  "keywords": [
+    "state",
+    "react",
+    "scoped",
+    "scoped model",
+    "model",
+    "observable"
+  ],
+  "author": "Amit Wolfus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitWolfus/scoped-model/issues"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.1"
+  },
+  "homepage": "https://github.com/AmitWolfus/scoped-model#readme"
+}
